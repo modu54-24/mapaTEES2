@@ -1,2 +1,4 @@
 # mapaTEES2
-exemplificarIC
+### exemplificarIC
+
+matéria muito boa, uma pena nao ter sido disponibilizado aula ao vivo.
